@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2802984833",
+    "firebase_url": "https://handicraft-9a816.firebaseio.com",
+    "project_id": "handicraft-9a816",
+    "storage_bucket": "handicraft-9a816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2802984833:android:a4318b3b48142dc6",
+        "android_client_info": {
+          "package_name": "com.strontech.imgautam.handycaft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2802984833-r2vdeqr2d4mb7d1j7isaa2ac5oak5ocl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.strontech.imgautam.handycaft",
+            "certificate_hash": "1ff32bcaa690a02628021fa94d16387f78809bec"
+          }
+        },
+        {
+          "client_id": "2802984833-vhp61c17noloa832bhsrg5i631e76q49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFj_NIQBSyLTjlsbHvpmAjgiQj93QUBgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2802984833-vhp61c17noloa832bhsrg5i631e76q49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

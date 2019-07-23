@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:showIn="navigation_view">
+
+  <group
+    android:id="@+id/group1"
+    android:checkableBehavior="single">
+    <item
+      android:id="@+id/nav_home"
+      android:icon="@drawable/ic_home"
+      android:title="Home"/>
+  </group>
+  <group
+    android:id="@+id/group2"
+    android:checkableBehavior="single">
+      <item
+        android:id="@+id/nav_my_cart"
+        android:icon="@drawable/ic_shopping_cart_black"
+        android:title="My Cart"/>
+      <item
+        android:id="@+id/nav_my_wish_list"
+        android:icon="@drawable/ic_favorite_black"
+        android:title="My Wishlist"/>
+    <item
+      android:id="@+id/nav_my_orders"
+      android:icon="@drawable/purchase_order"
+      android:title="My Orders"/>
+    <item
+      android:id="@+id/nav_my_account"
+      android:icon="@drawable/ic_person_black"
+      android:title="My Account"/>
+
+  </group>
+  <group
+    android:id="@+id/group3"
+    android:checkableBehavior="single">
+    <item
+      android:id="@+id/nav_share"
+      android:icon="@drawable/ic_menu_share"
+      android:title="Share App"/>
+    <item
+      android:id="@+id/nav_help_feedback"
+      android:icon="@drawable/ic_help"
+      android:title="Help and Feedback"/>
+    <item
+      android:id="@+id/nav_terms_policy"
+      android:icon="@drawable/certificate"
+      android:title="Terms and Policy"/>
+
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/icons_about"
+        android:title="About"/>
+
+  </group>
+
+</menu>
